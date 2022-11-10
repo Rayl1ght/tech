@@ -13,7 +13,7 @@
 
 <h2>1.4 ER-диаграмма</h2>
 
-
+![image](https://user-images.githubusercontent.com/105597943/201203631-577c9ad7-1ed2-45a8-82d3-44af4356e440.png)
 
 <h2>1.5 Проблематика предметной области</h2>
 
